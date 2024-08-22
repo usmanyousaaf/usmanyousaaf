@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/usmanyousaaf">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=2000&pause=800&color=9745F5&center=true&multiline=true&width=650&height=80&lines=Usman+Yousaf;Researcher+%7C+BS+AI+Graduate+%7C+LLMs+%7C+NLP+%7C+ML%26DL" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&duration=750&pause=800&color=FFD903&center=true&multiline=true&width=650&height=80&lines=Usman+Yousaf;Researcher+%7C+BSAI+Graduate+%7C+LLMs+%7C+NLP+%7C+ML%26DL" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -20,7 +20,7 @@
 <br/> 
 
 <a href="https://github.com/usmanyousaaf">
-    <img src="https://github-stats-alpha.vercel.app/api?username=usmanyousaaf&cc=22272e&width=500px&tc=9745F5&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=usmanyousaaf&cc=22272e&width=500px&tc=FFFFFF&ic=fff&bc=0000">
 </a>
 
 </p>
