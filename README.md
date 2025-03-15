@@ -13,11 +13,6 @@
 <a href="https://instagram.com/usmanyousaaf">
     <img src="https://img.shields.io/badge/-Instagram-white?style=flat-square&logo=instagram&color=lightpink">
 </a>
-<a href="mailto:usmanyousafpersonal@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
-
-<br/> 
 
 <a href="mailto:usmanyousafpersonal@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
