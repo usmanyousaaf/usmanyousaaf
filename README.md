@@ -19,9 +19,10 @@
 
 <br/> 
 
-<a href="https://github.com/usmanyousaaf">
-    <img src="https://github-stats-alpha.vercel.app/api?username=usmanyousaaf&cc=22272e&width=500px&tc=FFFFFF&ic=fff&bc=0000">
+<a href="mailto:usmanyousafpersonal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
 </a>
+
 
 </p>
 
