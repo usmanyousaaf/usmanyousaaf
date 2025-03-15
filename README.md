@@ -32,9 +32,20 @@
 - 📖 🇵🇰 Doing a Bachelor's in Artificial Intelligence from COMSATS University.
 
 ----
+## 🔥 **Tech Stack & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,fastapi,django,postgresql,mysql,git,linux,cloudflare" />
+</p>
+
+## 🏆 **GitHub Trophies**  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=usmanyousaaf&theme=onedark&no-bg=true&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+</div>
+
+
 
 <details>
-<summary>📈 Stats</summary>
+<summary><b>💡 GitHub Insights</b></summary>
 <br>
 My Github Stats
 <br>
