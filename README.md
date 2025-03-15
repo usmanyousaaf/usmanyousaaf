@@ -4,20 +4,21 @@
 </a>
 <br/>
 
-<!--<a href="https://medium.com">
-    <img src="https://img.shields.io/badge/Website-medium-red?style=flat-square">
-</a>  -->
 <a href="https://www.linkedin.com/in/usmanyousaaf">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&color=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&color=blue">
 </a>
 <a href="https://instagram.com/usmanyousaaf">
-    <img src="https://img.shields.io/badge/-Instagram-white?style=flat-square&logo=instagram&color=lightpink">
+    <img src="https://img.shields.io/badge/-Instagram-white?style=flat-square&logo=instagram&color=gray">
 </a>
 <a href="mailto:usmanyousafpersonal@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=pink">
 </a>
-
+<a href="https://huggingface.co/usmanyousaf">
+    <img src="https://img.shields.io/badge/-HuggingFace-black?style=flat-square&logo=huggingface&logoColor=#f58d05">
+</a>
 <br/> 
+
+
 
 <a href="https://github.com/usmanyousaaf">
     <img src="https://github-stats-alpha.vercel.app/api?username=usmanyousaaf&cc=22272e&width=500px&tc=FFFFFF&ic=fff&bc=0000">
