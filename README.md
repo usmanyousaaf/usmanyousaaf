@@ -31,8 +31,9 @@
 - ⚡ Fun fact: Always eager to stay updated with the latest news and updates in the field.
 - 📖 🇵🇰 Doing a Bachelor's in Artificial Intelligence from COMSATS University.
 
+---
 <details>
-<summary><b>💡 GitHub Insights</b></summary>
+<summary><b>💡GitHub Insights </b></summary>
 <br>
 My Github Stats
 <br>
