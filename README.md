@@ -31,19 +31,6 @@
 - ⚡ Fun fact: Always eager to stay updated with the latest news and updates in the field.
 - 📖 🇵🇰 Doing a Bachelor's in Artificial Intelligence from COMSATS University.
 
-----
-## 🔥 **Tech Stack & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,fastapi,django,postgresql,mysql,git,linux,cloudflare" />
-</p>
-
-## 🏆 **GitHub Trophies**  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=usmanyousaaf&theme=onedark&no-bg=true&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-</div>
-
-
-
 <details>
 <summary><b>💡 GitHub Insights</b></summary>
 <br>
@@ -55,4 +42,13 @@ My Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usmanyousaaf&theme=aura) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=usmanyousaaf&theme=aura)
 
-</details>
+###  Tech Stack & Tools
+<p >
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,flask,fastapi,django,postgresql,mysql,git,linux,cloudflare" />
+</p>
+
+
+###  GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=usmanyousaaf&theme=onedark&no-bg=true&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+</div>
